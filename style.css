@@ -8,6 +8,7 @@ body {
 a {
     color: darkblue;
 }
+
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
@@ -25,11 +26,12 @@ h3 {
     padding-bottom: 1em;
 }
 
-main { 
+main {
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
 }
+
 header {
     text-align: center;
     margin: auto 2em;
@@ -53,10 +55,13 @@ hr {
     height: 1px;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-weight: 100;
     margin-bottom: 0;
 }
+
 #mainLeft {
     border-right: 1px solid lightgray;
 }
