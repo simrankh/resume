@@ -4,6 +4,10 @@ body {
     max-width: 960px;
     margin: auto;
 }
+
+a {
+    color: darkblue;
+}
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
